@@ -120,15 +120,16 @@ Some rough guidelines on a potential process to sketchnote a book or a paper:
   2. Do a single-page chapter/section summary (rough, just for you; work with the garage door up) (**Organize**)
   3. Highlight actionable ideas, what can you do with these ideas from the summary? What's next? Follow-up ideas (**Distill**)
   4. Then, move on to a single-page summary/book-on-a-page (What's the overall structure? Essential details?) (**Express**)
-    - Find an image, e.g. from flaticon, for each note you want to include, paste them in the excalidraw drawing
-    - You can also draw things directly in excalidraw, keep the drawings minimal
-    - Download each image and save in an assets folder in the Obsidian vault, you can directly use them upon command (can suffix with XYZ icon for better searching)
-    - Add the things you draw in excalidraw libraries
-    - Do some search for premade excalidraw libraries
-    - Use emojis (?)
-    - Instead of trying to do everything at once, do separate drawings for each chapter, then combine
-    - You can have a subdirectory for the notes, work there, add the images there, and then a separate subdirectory for the book-on-a-page
-    - You can open a pane as a popup, to work and copy the images side-by-side
+
+ - Find an image, e.g. from flaticon, for each note you want to include, paste them in the excalidraw drawing
+ - You can also draw things directly in excalidraw, keep the drawings minimal
+ - Download each image and save in an assets folder in the Obsidian vault, you can directly use them upon command (can suffix with XYZ icon for better searching)
+ - Add the things you draw in excalidraw libraries
+ - Do some search for premade excalidraw libraries
+ - Use emojis (?)
+ - Instead of trying to do everything at once, do separate drawings for each chapter, then combine
+ - You can have a subdirectory for the notes, work there, add the images there, and then a separate subdirectory for the book-on-a-page
+ - You can open a pane as a popup, to work and copy the images side-by-side
 
 ## Fluff
 
