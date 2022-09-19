@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+    <loc>https://xlxs4.github.io/blog/second-brain/index.html</loc>
+    <lastmod>2022-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://xlxs4.github.io/404/index.html</loc>
-    <lastmod>2022-09-15</lastmod>
+    <lastmod>2022-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://xlxs4.github.io/index.html</loc>
-    <lastmod>2022-09-15</lastmod>
+    <lastmod>2022-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
